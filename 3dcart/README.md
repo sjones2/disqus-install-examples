@@ -18,3 +18,4 @@ A Disqus Account.
 4. Place a mark in the "Use Disqus Comments" checkbox.  
 5. Enter your shortname in the "Disqus Shortname" field.   
 6. Click Save Settings at the top right.  
+ 
